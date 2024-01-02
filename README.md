@@ -1,5 +1,5 @@
 # RPS_Python
-A basic rock-paper-scissors game made in Python.
+A basic rock-paper-scissors game made in Python that runs in the console.
 ## How it Works
 Uses functions to replicate the following game experience:
 ```
